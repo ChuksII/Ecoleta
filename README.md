@@ -10,7 +10,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week** da [Rocketseat](rs).
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram utilizadas no desenvolvimento do projeto:
 
 - [Expo][expo]
 - [Node.js][nodejs]
